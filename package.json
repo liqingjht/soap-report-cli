@@ -1,5 +1,5 @@
 {
-    "name": "SOAP-Report-CLI",
+    "name": "soap-report-cli",
     "version": "1.0.1",
     "description": "Generate excel file from soap result",
     "main": "app.js",
