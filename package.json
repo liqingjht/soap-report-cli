@@ -1,0 +1,12 @@
+{
+    "name": "SOAP-Report-CLI",
+    "version": "1.0.1",
+    "description": "Generate excel file from soap result",
+    "main": "app.js",
+    "author": "liqingjht",
+    "license": "MIT",
+    "dependencies": {
+        "commander": "^2.9.0",
+        "exceljs": "^0.4.6"
+    }
+}

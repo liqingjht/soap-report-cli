@@ -1,0 +1,1 @@
+WLANConfiguration:Set5G1Enable [tri-band product]
